@@ -1,0 +1,25 @@
+1	Anyone knows of a list of Kylo users that we can show as references? 
+0	I know of Coke and Lego, but a largest list will help. Thanks!
+1	Do we have any use cases where we have utilised 3D visualisation technology?
+1	Does someone have more information, decks of the new TD which was presented in partners?
+1	Do we have any material on internal fraud on banking? 
+1	Any assessment or implementation on this front?
+0	I am looking for pre-sale information for Data Science Lab.
+1	Is there someone who has experience within Projects with the Next-Gen Data Platform or Converged Data Platform from MapR?
+0	I've been preparing for a TD AppCenter demo for a customer and created a set of demo videos for backup. 
+0	These may be useful for ones who want to learn about it.
+1	Can someone point me to the mobile phone setup instructions?
+1	Could you please share real deployed cases about Kylo which i can show to my customer? 
+0	Or give me please contacts who can help me.
+1	So if I were to sell the Analytic Ops accelerator we announced at partners, where would the assets be found, and who is the owner of these?
+0	I am trying to collate different Image Processing use cases for a government customer. 
+1	Is there a place where I can find different use cases such as OCR, face detection/recognition, unattended baggage detection etc.?
+0	Paul Huibers did a great job at Cleveland Clinic this week demonstrating the power of AI in healthcare!
+1	Does anyone know if we have some discounts on Cloudera certifications negotiated at the moment?
+0	Not sure if you guys in London are aware about this interesting conference next week.
+1	Do we have any references on using Kudu?
+0	We had an opportunity and could use some advice. 
+1	Does anyone have a copy of the excellent HBase presentation that Bryce Cottam did a few years ago for a Think Big bootcamp?
+0	Posting some pictures from the Diwali Celebrations at one of our Client Williams Sonoma in San Francisco....Enjoy!!!!
+0	Using data from Kaggle ML and Data Science Survey, 2017
+0	The lesson of the day, order less Mexican food than you think you will need. 
